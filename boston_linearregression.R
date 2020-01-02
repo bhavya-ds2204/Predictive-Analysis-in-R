@@ -1,4 +1,4 @@
-#25-10-2019
+
 #boxplot
 #linear model
 #eda talks about 
